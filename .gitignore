@@ -92,4 +92,8 @@ Thumbs.db
 .vscode/
 numerical_methods/non_linear_equations/__pycache__/
 numerical_methods/systems_of_linear_equations/__pycache__/
+numerical_methods/moment_of_inertia/system_test.py
+numerical_methods/moment_of_inertia/bodies/test_bodies
+numerical_methods/moment_of_inertia/__pycache__/
 system_tests/
+token.txt
